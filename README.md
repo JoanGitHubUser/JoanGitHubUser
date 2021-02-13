@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning in the basics of install and configure Linux, and fighting with the drivers install problems. After that I will start 
 with the file structure, how the modules starts etc. Currently only using Office and Music Apps, and not developing. A little fan of Steam too :-)
 - 💞️ I’m looking to collaborate on finding bugs of apps, specially the ElementaryOS Apps
-- 📫 You can rech me by mail
+- 📫 You can reach me by mail
 
   Thank you all 
 
